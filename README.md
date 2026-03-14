@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Freelancer Revenue Intelligence System
 
 A full-stack application for freelancers to track revenue, manage invoices, and gain financial insights by integrating bank transactions, payments, scheduling, and AI-powered analytics.
